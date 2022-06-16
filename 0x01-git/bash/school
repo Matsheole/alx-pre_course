@@ -2,4 +2,4 @@
 #!/bin/bash 
 echo "ALX" >> bash/school
 
-echo echo School
+echo "The school is open!"
